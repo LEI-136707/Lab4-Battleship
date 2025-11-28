@@ -1,0 +1,10 @@
+<!-- Inserta esto dentro de <project> si no está presente -->
+<repositories>
+  <repository>
+    <id>central</id>
+    <name>Maven Central</name>
+    <url>https://repo.maven.apache.org/maven2</url>
+    <releases><enabled>true</enabled></releases>
+    <snapshots><enabled>false</enabled></snapshots>
+  </repository>
+</repositories>
